@@ -1,0 +1,5 @@
+id,_Book__name,_Book__author,_Book__creation_date,_Book__genre
+0,test1,Sviat,20.01.2020,Fantasy
+1,test2,Sviat,20.01.2020,Fantasy
+2,test3,John,20.01.2020,Horror
+3,test3,Sviat,20.05.2021,Horror
