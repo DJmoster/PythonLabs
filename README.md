@@ -7,4 +7,5 @@
 |Lab 3     | [#1](https://github.com/DJmoster/PythonLabs/issues/1) | Finished |
 |Lab 4     | [#2](https://github.com/DJmoster/PythonLabs/issues/2) | Finished |
 |Lab 5     | [#7](https://github.com/DJmoster/PythonLabs/issues/7) | Finished |
-|Lab 6     | [#9](https://github.com/DJmoster/PythonLabs/issues/9) | Ready for review |
+|Lab 6     | [#9](https://github.com/DJmoster/PythonLabs/issues/9) | Finished |
+|Lab 7     | [#9](https://github.com/DJmoster/PythonLabs/issues/11) | Ready for review |
