@@ -1,4 +1,4 @@
-from MyLogger.models import MessageType, LogMessage
+from .models import MessageType, LogMessage
 
 
 class Logger:
