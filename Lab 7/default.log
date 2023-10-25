@@ -1,0 +1,3 @@
+[2023-10-25 09:58:24.843052][INFO]: Викликано функцію: multiply, результат функції: 5
+[2023-10-25 09:58:24.843052][ERROR]: Викликано функцію: multiply, invalid literal for int() with base 10: 'dasadsasddasadsasddasadsasddasadsasddasadsasd'
+[2023-10-25 09:58:24.843052][INFO]: Викликано функцію: multiply, результат функції: 25770
