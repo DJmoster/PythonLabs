@@ -10,5 +10,6 @@
 |Lab 6     | [#9](https://github.com/DJmoster/PythonLabs/issues/9) | Finished |
 |Lab 7     | [#11](https://github.com/DJmoster/PythonLabs/issues/11) | Finished |
 |Lab 8     | [#13](https://github.com/DJmoster/PythonLabs/issues/13) | Finished |
-|Lab 9     | [#15](https://github.com/DJmoster/PythonLabs/issues/15) | In progress |
-|Lab 10     | [#16](https://github.com/DJmoster/PythonLabs/issues/16) | Ready for review |
+|Lab 9     | [#15](https://github.com/DJmoster/PythonLabs/issues/15) | Finished |
+|Lab 10     | [#16](https://github.com/DJmoster/PythonLabs/issues/16) | Finished |
+|Lab 11     | [#18](https://github.com/DJmoster/PythonLabs/issues/18) | Ready for review |
