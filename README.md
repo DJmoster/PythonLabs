@@ -12,4 +12,5 @@
 |Lab 8     | [#13](https://github.com/DJmoster/PythonLabs/issues/13) | Finished |
 |Lab 9     | [#15](https://github.com/DJmoster/PythonLabs/issues/15) | Finished |
 |Lab 10     | [#16](https://github.com/DJmoster/PythonLabs/issues/16) | Finished |
-|Lab 11     | [#18](https://github.com/DJmoster/PythonLabs/issues/18) | Ready for review |
+|Lab 11     | [#18](https://github.com/DJmoster/PythonLabs/issues/18) | Finished |
+|Lab 12     | [#20](https://github.com/DJmoster/PythonLabs/issues/20) | In progress |
